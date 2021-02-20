@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822750154622",
+    "project_id": "test1-d4509",
+    "storage_bucket": "test1-d4509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822750154622:android:d4de28b529f7939f412d2f",
+        "android_client_info": {
+          "package_name": "com.skcoder.intellifytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822750154622-60asg7h47gdbqqlnfffjm5jhoc73i3is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfMgYWHNN34UyjMKS3hY7HTi3mSxC4iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822750154622-60asg7h47gdbqqlnfffjm5jhoc73i3is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
